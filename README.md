@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei Abdusamatov Developer, Technical visionary & Entrepreneur 14+ years experience.
+- 👋 Hi, I’m Andrei Abdusamatov Developer, Technical visionary & Entrepreneur 15+ years experience.
 - 👀 I’m interested in Gamedev / GameFi, FinTech, AdTech
 - 🛠 The Tools I use for for communication and project managment: Miro, Google Docs, Jira / Redmine / Trello, Confluence / Wiki, Codecks.io, Google Meets / Zoom / Slack, Forums, Wiki, md documentation and auto-generated documentation and so on.
 
